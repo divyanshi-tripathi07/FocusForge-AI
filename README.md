@@ -322,7 +322,7 @@ Mobile & Desktop Compatibility
 
 Clone Repository
 
-git clone https://github.com/your-username/focusforge-ai.git
+git clone https://github.com/divyanshi-tripathi07/focusforge-ai.git
 
 
 
